@@ -1,0 +1,4 @@
+src/rote_poly_eval.py
+.DS_Store
+database/maindb.db
+*__pycache__/
